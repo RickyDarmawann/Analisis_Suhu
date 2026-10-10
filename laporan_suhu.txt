@@ -1,0 +1,15 @@
+LAPORAN ANALISIS SUHU MINGGUAN
+=============================
+Rata-rata suhu: 31.14 C
+Suhu tertinggi: 35 C (Kamis)
+Suhu terendah: 28 C (Minggu)
+Jumlah hari panas: 3
+
+Rincian suhu harian:
+Senin: 31 C - Normal
+Selasa: 33 C - Panas
+Rabu: 29 C - Normal
+Kamis: 35 C - Panas
+Jumat: 32 C - Panas
+Sabtu: 30 C - Normal
+Minggu: 28 C - Normal
